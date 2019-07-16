@@ -7,8 +7,8 @@
         <version>3.9-SNAPSHOT</version>
     </parent>
 
-    <artifactId>multi1</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>multi1b</artifactId>
+    <packaging>war</packaging>
     <name>Multi 1</name>
 
     <licenses>
